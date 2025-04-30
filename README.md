@@ -1,5 +1,13 @@
 ## Hi there 👋
 
+## Reinhardt0926!
+
+- 🏢 AI & Quality Assurance Engineer 
+- 🏫 M.S. student in AI at Sogang University (since 2025)
+- 🏛️ VDSLab <https://vds.sogang.ac.kr/>
+- 🤣 Interested in time-series analysis, image processing, LLM, XAI,... ML
+- 🎰 <reinhardt0926@gmail.com>
+
 <!--
 **reinhardt0926/reinhardt0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
