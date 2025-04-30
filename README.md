@@ -8,6 +8,12 @@
 - 🤣 Interested in time-series analysis, image processing, LLM, XAI,... ML
 - 🎰 <reinhardt0926@gmail.com>
 
+## Main Tools
+<div vidth="100%">
+  <img align="left" src="https://raw.github.com/reinhardt0926/Image-dir/blob/main/main/Python-logo-notext.svg.png"
+</div>
+
+
 <!--
 **reinhardt0926/reinhardt0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
