@@ -10,7 +10,7 @@
 
 ## Main Tools
 <div vidth="100%">
-  <img align="left" src="https://raw.github.com/reinhardt0926/Image-dir/blob/main/main/Python-logo-notext.svg.png"
+  <img align="left" src="https://raw.github.com/reinhardt0926/Image-dir/main/Python-logo-notext.svg.png" alt="Python" height="50px"/>
 </div>
 
 
