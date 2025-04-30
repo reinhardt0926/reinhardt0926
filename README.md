@@ -11,9 +11,12 @@
 ## Main Tools
 <div vidth="100%">
   <img align="left" src="https://raw.githubusercontent.com/ydmins/YdMinS/main/icons/java.png" alt="java" height="50px"/>
-  <img align="left" src="https://raw.githubusercontent.com/reinhardt0926/Image-dir/main/Python-logo-notext.svg.png" alt="Python" height="50px"/>
+  <img align="left" src="https://raw.githubusercontent.com/reinhardt0926/reinhardt0926//main/icons/Python-logo-notext.svg.png" alt="Python" height="50px"/>
 </div>
 
+<!-- 
+https://github.com/reinhardt0926/reinhardt0926/blob/main/icons/Python-logo-notext.svg.png
+-->
 
 <!--
 **reinhardt0926/reinhardt0926** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
