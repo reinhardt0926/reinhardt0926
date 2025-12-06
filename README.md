@@ -19,7 +19,7 @@
 
 ### Statistics
 <div>
-  <img alt = "stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=reinhardt0926&show_icons=true&theme=github_dark" width = "49%" height="130%" />
+  <img alt = "stats" align = "left" src="https://raw.githubusercontent.com/reinhardt0926/reinhardt0926//main/icons/statistics.png" width = "49%" height="130%" />
   <!-- <img alt="algorithms" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reinhardt0926&layout=compact" width="42%" height="100%"/> -->
 </div>
 
