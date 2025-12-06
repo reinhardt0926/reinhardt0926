@@ -18,6 +18,12 @@
 
 ### Statistics
 <div>
+  <img alt = "stats" align = "left" src="https://github-readme-stats-git-masterorg.vercel.app/api?username=reinhardt0926" width = "49%" height="130%" />
+  <!-- <img alt="algorithms" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reinhardt0926&layout=compact" width="42%" height="100%"/> -->
+</div>
+
+### Statistics
+<div>
   <img alt = "stats" align = "left" src="https://github-readme-stats.vercel.app/api?username=reinhardt0926&show_icons=true&theme=github_dark" width = "49%" height="130%" />
   <!-- <img alt="algorithms" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reinhardt0926&layout=compact" width="42%" height="100%"/> -->
 </div>
