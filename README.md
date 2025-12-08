@@ -23,7 +23,6 @@
   <!-- <img alt="algorithms" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=reinhardt0926&layout=compact" width="42%" height="100%"/> -->
 </div>
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=reinhardt0926&show_icons=true&theme=default)
 
 
 <!--
